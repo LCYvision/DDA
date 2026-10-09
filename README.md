@@ -1,5 +1,5 @@
 # DDA
-Dual-Domain Alignment for Low-Resolution Object Detection
+Dual-Domain Alignment
 
 ## 📌 Features
 - **Plug-and-Play**: Can be flexibly integrated into any FPN-like detector (e.g., YOLO series).
